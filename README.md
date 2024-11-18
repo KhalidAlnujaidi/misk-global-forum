@@ -2,3 +2,6 @@
 
 
 # misk global forum
+
+
+https://colab.research.google.com/drive/1CMKTmDChoFwS6hD5OVSdWMhZ_6ecL39T?usp=drive_link
